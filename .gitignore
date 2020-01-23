@@ -96,3 +96,5 @@ ENV/
 
 # Ignore any files and directories that begin with the word "local"
 local*
+dataset_udacity_traffic_train.h5
+dataset_udacity_traffic_val.h5
